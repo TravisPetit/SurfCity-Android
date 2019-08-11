@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SurfCity-Android</string>
+
+    <string name="public_tab_name">Public</string>
+    <string name="private_tab_name">Private</string>
+    <string name="sync_menu">Sync</string>
+    <string name="menu_import">Import</string>
+    <string name="add_pub">Add Pub</string>
+    <string name="menu_process">Process</string>
+    <string name="enter_secret">Enter Secret:</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="de.fqsmedia.cedrik.surfcity_android.MainActivity">
+    <item
+            android:id="@+id/action_sync"
+            android:orderInCategory="100"
+            android:title="@string/sync_menu"/>
+    <item
+            android:id="@+id/action_process"
+            android:orderInCategory="100"
+            android:title="@string/menu_process"/>
+    <item
+            android:id="@+id/action_add_pub"
+            android:orderInCategory="100"
+            android:title="@string/add_pub"/>
+
+    <item
+            android:id="@+id/action_import"
+            android:orderInCategory="100"
+            android:title="@string/menu_import"/>
+</menu>
